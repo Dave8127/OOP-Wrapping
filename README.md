@@ -94,9 +94,9 @@ Employee
 # 📸 Output Screenshots
 
 
-![O1](images/O1.png)
-![O2](images/O2.png)
-![O3](images/O3.png)
+![O1](Outputs/O1.png)
+![O2](Outputs/O2.png)
+![O3](Outputs/O3.png)
 
 ---
 
